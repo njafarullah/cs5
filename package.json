@@ -1,7 +1,7 @@
 {
   "name": “dashboard”,
   "version": "0.9.10",
-  "description": "Angular-CLI starter for a Clarity project",
+  "description": "dashboard project",
   "angular-cli": {},
   "scripts": {
     "start": "ng serve",
